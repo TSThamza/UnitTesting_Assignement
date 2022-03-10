@@ -1,5 +1,5 @@
 
-# WLB Test Assignement
+#Coding Project
 
 This project is a coding test assignement which consists in implementing for three differents problems three
 parameterized python functions. Including a test set of minimum of 2 unit tests per function to verify that the
